@@ -1,5 +1,5 @@
-#### Drowsy Driving Detection System - 졸음 운전 방지 시스템
-#### Drowsy Driving Detection System with OpenCV &amp; KNN
+# Drowsy Driving Detection System - 졸음 운전 방지 시스템
+## Drowsy Driving Detection System with OpenCV &amp; KNN
 
 <br>
 
