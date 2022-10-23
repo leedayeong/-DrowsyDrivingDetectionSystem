@@ -62,17 +62,13 @@
 
 
 ## ⚙️ 기술 스택
-- Library
-  OpenCV, KNN, dlib
+- Library : OpenCV, KNN, dlib
   
-- Language
-  Python3
+- Language : Python3
 
-- OS
-  Raspbian
+- OS : Raspbian
 
-- Hardware
-  Raspberry Pi, Pi Camera
+- Hardware : Raspberry Pi, Pi Camera
 
 <br>
 
